@@ -5,10 +5,10 @@
     
     <entry>
       <title>百度输入法皮肤使用教程</title>
-      <link href="/post-37636c7d/"/>
-      <url>/post-37636c7d/</url>
+      <link href="/post-baidu/"/>
+      <url>/post-baidu/</url>
       
-        <content type="html"><![CDATA[<h1 id="百度输入法皮肤使用教程"><a href="#百度输入法皮肤使用教程" class="headerlink" title="百度输入法皮肤使用教程"></a>百度输入法皮肤使用教程</h1><p>首先 我们需要确定自己是官方百度输入法最新版(手机自带输入法会出现一些关于皮肤的不兼容问题 定制输入法出现的问题我方不受理)<br>下载 百度输入法 <a href="https://shurufa.baidu.com/default" title="点击跳转">官方下载链接</a><br>方法一不行 可以使用方法二</p><h2 id="方法一"><a href="#方法一" class="headerlink" title="方法一:"></a>方法一:</h2><p>1.浏览器 下载发送给你的皮肤下载链接 选择皮肤 下载 打开 百度输入法 进行皮肤导入即可使用</p><h2 id="方法二"><a href="#方法二" class="headerlink" title="方法二:"></a>方法二:</h2><p>1.下载 MT管理器  <a href="https://mt2.cn/" title="点击跳转">官方下载链接</a><br>2.下载 购买后发送给你的输入法皮肤<br>3.给予 百度输入法 和 MT管理器 相对应的权限（一般他会自己请求 同意即可）<br>4.一般自带浏览器下载的输入法皮肤位置为 &#x2F;storage&#x2F;emulated&#x2F;0&#x2F;Download 可以在这找到 如果找不到可以使用浏览器 打开 打开方式选择 MT管理器<br>5.左边准备好输入法皮肤的路径 右边操作跳转到路径 &#x2F;storage&#x2F;emulated&#x2F;0&#x2F;Android&#x2F;data&#x2F;com.baidu.input&#x2F;files&#x2F;ime&#x2F;skins&#x2F; 如果找到 com.baidu.input后没找到后续文件 可以自行创建文件夹进行操作<br>6.打开后左方应该是输入法皮肤 右方是输入法皮肤文件夹 长按输入法皮肤文件 （请确保其后缀为.bdi .bds .bda如果为.zip打开查看是否存在 如不存在自行删除.zip后缀 文件名一般是xxxxx.bda.zip 删除.zip即可） 向右进行粘贴&#x2F;移动操作 导入后即可使用</p>]]></content>
+        <content type="html"><![CDATA[<h1 id="百度输入法皮肤使用教程"><a href="#百度输入法皮肤使用教程" class="headerlink" title="百度输入法皮肤使用教程"></a>百度输入法皮肤使用教程</h1><p>首先 我们需要确定自己是官方百度输入法最新版(手机自带输入法会出现一些关于皮肤的不兼容问题 定制输入法出现的问题我方不受理)<br>下载 百度输入法 <a href="https://shurufa.baidu.com/default" title="点击跳转">官方下载链接</a><br>方法一不行 可以使用方法二</p><h2 id="方法一"><a href="#方法一" class="headerlink" title="方法一"></a>方法一</h2><p>1.浏览器 下载发送给你的皮肤下载链接 选择皮肤 下载 打开 百度输入法 进行皮肤导入即可使用</p><h2 id="方法二"><a href="#方法二" class="headerlink" title="方法二"></a>方法二</h2><p>1.下载 MT管理器  <a href="https://mt2.cn/" title="点击跳转">官方下载链接</a><br>2.下载 购买后发送给你的输入法皮肤<br>3.给予 百度输入法 和 MT管理器 相对应的权限（一般他会自己请求 同意即可）<br>4.一般自带浏览器下载的输入法皮肤位置为 &#x2F;storage&#x2F;emulated&#x2F;0&#x2F;Download 可以在这找到 如果找不到可以使用浏览器 打开 打开方式选择 MT管理器<br>5.左边准备好输入法皮肤的路径 右边操作跳转到路径 &#x2F;storage&#x2F;emulated&#x2F;0&#x2F;Android&#x2F;data&#x2F;com.baidu.input&#x2F;files&#x2F;ime&#x2F;skins&#x2F; 如果找到 com.baidu.input后没找到后续文件 可以自行创建文件夹进行操作<br>6.打开后左方应该是输入法皮肤 右方是输入法皮肤文件夹 长按输入法皮肤文件 （请确保其后缀为 .bdi .bds .bda 如果为.zip打开查看是否存在以上格式文件 存在可在压缩包里操作以下操作 如不存在自行删除.zip后缀 文件名一般是xxxxx.bda.zip 删除.zip 即可） 向右进行粘贴&#x2F;移动操作 导入后即可使用</p>]]></content>
       
       
       
